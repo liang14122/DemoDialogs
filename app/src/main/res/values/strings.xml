@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Dialogs</string>
+    <string name="simple_confirmation">Simple Confirmation</string>
+    <string name="simple_list">Simple List</string>
+    <string name="pass_phrase">Pass Phrase</string>
+    <string name="access_code">Access Code</string>
+</resources>
